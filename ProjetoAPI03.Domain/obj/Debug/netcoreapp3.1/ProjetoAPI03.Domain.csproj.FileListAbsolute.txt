@@ -1,0 +1,26 @@
+C:\Users\sergi\OneDrive\Área de Trabalho\Aulas EAD\C# .NET - SegQuaSexta Manha\Aula 31 - 02.02.21\ProjetoAPI03\ProjetoAPI03.Domain\bin\Debug\netcoreapp3.1\ProjetoAPI03.Domain.deps.json
+C:\Users\sergi\OneDrive\Área de Trabalho\Aulas EAD\C# .NET - SegQuaSexta Manha\Aula 31 - 02.02.21\ProjetoAPI03\ProjetoAPI03.Domain\bin\Debug\netcoreapp3.1\ProjetoAPI03.Domain.dll
+C:\Users\sergi\OneDrive\Área de Trabalho\Aulas EAD\C# .NET - SegQuaSexta Manha\Aula 31 - 02.02.21\ProjetoAPI03\ProjetoAPI03.Domain\bin\Debug\netcoreapp3.1\ProjetoAPI03.Domain.pdb
+C:\Users\sergi\OneDrive\Área de Trabalho\Aulas EAD\C# .NET - SegQuaSexta Manha\Aula 31 - 02.02.21\ProjetoAPI03\ProjetoAPI03.Domain\obj\Debug\netcoreapp3.1\ProjetoAPI03.Domain.csprojAssemblyReference.cache
+C:\Users\sergi\OneDrive\Área de Trabalho\Aulas EAD\C# .NET - SegQuaSexta Manha\Aula 31 - 02.02.21\ProjetoAPI03\ProjetoAPI03.Domain\obj\Debug\netcoreapp3.1\ProjetoAPI03.Domain.AssemblyInfoInputs.cache
+C:\Users\sergi\OneDrive\Área de Trabalho\Aulas EAD\C# .NET - SegQuaSexta Manha\Aula 31 - 02.02.21\ProjetoAPI03\ProjetoAPI03.Domain\obj\Debug\netcoreapp3.1\ProjetoAPI03.Domain.AssemblyInfo.cs
+C:\Users\sergi\OneDrive\Área de Trabalho\Aulas EAD\C# .NET - SegQuaSexta Manha\Aula 31 - 02.02.21\ProjetoAPI03\ProjetoAPI03.Domain\obj\Debug\netcoreapp3.1\ProjetoAPI03.Domain.csproj.CoreCompileInputs.cache
+C:\Users\sergi\OneDrive\Área de Trabalho\Aulas EAD\C# .NET - SegQuaSexta Manha\Aula 31 - 02.02.21\ProjetoAPI03\ProjetoAPI03.Domain\obj\Debug\netcoreapp3.1\ProjetoAPI03.Domain.dll
+C:\Users\sergi\OneDrive\Área de Trabalho\Aulas EAD\C# .NET - SegQuaSexta Manha\Aula 31 - 02.02.21\ProjetoAPI03\ProjetoAPI03.Domain\obj\Debug\netcoreapp3.1\ProjetoAPI03.Domain.pdb
+C:\Users\sergi\OneDrive\Área de Trabalho\Aulas EAD\C# .NET - SegQuaSexta Manha\Aula 32 - 04.02.21\ProjetoAPI03\ProjetoAPI03.Domain\bin\Debug\netcoreapp3.1\ProjetoAPI03.Domain.deps.json
+C:\Users\sergi\OneDrive\Área de Trabalho\Aulas EAD\C# .NET - SegQuaSexta Manha\Aula 32 - 04.02.21\ProjetoAPI03\ProjetoAPI03.Domain\bin\Debug\netcoreapp3.1\ProjetoAPI03.Domain.dll
+C:\Users\sergi\OneDrive\Área de Trabalho\Aulas EAD\C# .NET - SegQuaSexta Manha\Aula 32 - 04.02.21\ProjetoAPI03\ProjetoAPI03.Domain\bin\Debug\netcoreapp3.1\ProjetoAPI03.Domain.pdb
+C:\Users\sergi\OneDrive\Área de Trabalho\Aulas EAD\C# .NET - SegQuaSexta Manha\Aula 32 - 04.02.21\ProjetoAPI03\ProjetoAPI03.Domain\obj\Debug\netcoreapp3.1\ProjetoAPI03.Domain.csprojAssemblyReference.cache
+C:\Users\sergi\OneDrive\Área de Trabalho\Aulas EAD\C# .NET - SegQuaSexta Manha\Aula 32 - 04.02.21\ProjetoAPI03\ProjetoAPI03.Domain\obj\Debug\netcoreapp3.1\ProjetoAPI03.Domain.AssemblyInfoInputs.cache
+C:\Users\sergi\OneDrive\Área de Trabalho\Aulas EAD\C# .NET - SegQuaSexta Manha\Aula 32 - 04.02.21\ProjetoAPI03\ProjetoAPI03.Domain\obj\Debug\netcoreapp3.1\ProjetoAPI03.Domain.AssemblyInfo.cs
+C:\Users\sergi\OneDrive\Área de Trabalho\Aulas EAD\C# .NET - SegQuaSexta Manha\Aula 32 - 04.02.21\ProjetoAPI03\ProjetoAPI03.Domain\obj\Debug\netcoreapp3.1\ProjetoAPI03.Domain.csproj.CoreCompileInputs.cache
+C:\Users\sergi\OneDrive\Área de Trabalho\Aulas EAD\C# .NET - SegQuaSexta Manha\Aula 32 - 04.02.21\ProjetoAPI03\ProjetoAPI03.Domain\obj\Debug\netcoreapp3.1\ProjetoAPI03.Domain.dll
+C:\Users\sergi\OneDrive\Área de Trabalho\Aulas EAD\C# .NET - SegQuaSexta Manha\Aula 32 - 04.02.21\ProjetoAPI03\ProjetoAPI03.Domain\obj\Debug\netcoreapp3.1\ProjetoAPI03.Domain.pdb
+C:\Users\Samsung\Desktop\COTI - Aulas\2020 - C# WebDeveloper SQS Manha 01\Aula_17.03.21\ProjetoAPI03\ProjetoAPI03.Domain\bin\Debug\netcoreapp3.1\ProjetoAPI03.Domain.deps.json
+C:\Users\Samsung\Desktop\COTI - Aulas\2020 - C# WebDeveloper SQS Manha 01\Aula_17.03.21\ProjetoAPI03\ProjetoAPI03.Domain\bin\Debug\netcoreapp3.1\ProjetoAPI03.Domain.dll
+C:\Users\Samsung\Desktop\COTI - Aulas\2020 - C# WebDeveloper SQS Manha 01\Aula_17.03.21\ProjetoAPI03\ProjetoAPI03.Domain\bin\Debug\netcoreapp3.1\ProjetoAPI03.Domain.pdb
+C:\Users\Samsung\Desktop\COTI - Aulas\2020 - C# WebDeveloper SQS Manha 01\Aula_17.03.21\ProjetoAPI03\ProjetoAPI03.Domain\obj\Debug\netcoreapp3.1\ProjetoAPI03.Domain.AssemblyInfoInputs.cache
+C:\Users\Samsung\Desktop\COTI - Aulas\2020 - C# WebDeveloper SQS Manha 01\Aula_17.03.21\ProjetoAPI03\ProjetoAPI03.Domain\obj\Debug\netcoreapp3.1\ProjetoAPI03.Domain.AssemblyInfo.cs
+C:\Users\Samsung\Desktop\COTI - Aulas\2020 - C# WebDeveloper SQS Manha 01\Aula_17.03.21\ProjetoAPI03\ProjetoAPI03.Domain\obj\Debug\netcoreapp3.1\ProjetoAPI03.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Samsung\Desktop\COTI - Aulas\2020 - C# WebDeveloper SQS Manha 01\Aula_17.03.21\ProjetoAPI03\ProjetoAPI03.Domain\obj\Debug\netcoreapp3.1\ProjetoAPI03.Domain.dll
+C:\Users\Samsung\Desktop\COTI - Aulas\2020 - C# WebDeveloper SQS Manha 01\Aula_17.03.21\ProjetoAPI03\ProjetoAPI03.Domain\obj\Debug\netcoreapp3.1\ProjetoAPI03.Domain.pdb
